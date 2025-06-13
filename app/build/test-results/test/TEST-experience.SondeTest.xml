@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="experience.SondeTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-03-28T07:58:52" hostname="Victus-by-HP-Gaming-Laptop-16" time="0.007">
+  <properties/>
+  <testcase name="testIncrementComparaison()" classname="experience.SondeTest" time="0.001"/>
+  <testcase name="testAdd()" classname="experience.SondeTest" time="0.001"/>
+  <testcase name="testReset()" classname="experience.SondeTest" time="0.0"/>
+  <testcase name="testCopy()" classname="experience.SondeTest" time="0.0"/>
+  <testcase name="testToString()" classname="experience.SondeTest" time="0.001"/>
+  <testcase name="testConstructorAndGetters()" classname="experience.SondeTest" time="0.0"/>
+  <testcase name="testIncrementAccess()" classname="experience.SondeTest" time="0.001"/>
+  <testcase name="testIncrementSwaps()" classname="experience.SondeTest" time="0.0"/>
+  <testcase name="testDiviseBy()" classname="experience.SondeTest" time="0.001"/>
+  <testcase name="testEquals()" classname="experience.SondeTest" time="0.0"/>
+  <testcase name="testSetTime()" classname="experience.SondeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
